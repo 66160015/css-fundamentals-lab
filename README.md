@@ -1,0 +1,15 @@
+## code
+- git clone https://github.com/66160015/css-fundamentals-lab.git
+- cd css-fundamentals-lab
+- git commit -m "init project"
+- git checkout -b "feature/main"
+- git commit -m "create main page"
+- git checkout -b "feature/css"
+- git commit -m "add basic CSS selectors"
+- git commit -m "add box model styles"
+- git add . 
+- git commit -m "add flexbox layouts"
+- git checkout main
+- git merge feature/main
+- git merge feature/css
+- git push origin main
